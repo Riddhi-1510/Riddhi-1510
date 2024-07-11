@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **mistryriddhi1510@gmail.com**
 
+-  🌐 Check out my website [TechShow](https://riddhi-1510.github.io/TechShow/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riddhi mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi mistry" height="30" width="40" /></a>
