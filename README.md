@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
 <h3 align="center">Dedicated web developer with a passion for frontend development</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **cpp, java, html, css, js, sql**
 
